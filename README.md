@@ -23,6 +23,9 @@ Should be
 1x1+3x2-1x3=10
 Can be input as be
 x1+3x2-x3=10
+
+
+
 In the program, after reading the equations the program reads one or more
 commands from user and program should print the results of each operations
 and read another operation till the program read the operation quit which
